@@ -10,7 +10,6 @@ logs/
 # Environment files (keep secrets out of Git)
 .env
 backend/.env
-frontend/.env
 
 # --- React (frontend) ---
 node_modules/
